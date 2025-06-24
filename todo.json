@@ -6,5 +6,33 @@
   {
     "description": "Testaufgabe schreiben",
     "done": true
+  },
+  {
+    "description": "Implement a todo app to manage todo apps",
+    "done": false
+  },
+  {
+    "description": "Refactor the matrix",
+    "done": false
+  },
+  {
+    "description": "Build IKEA shelf without crying",
+    "done": false
+  },
+  {
+    "description": "Convince the cat to do the dishes",
+    "done": false
+  },
+  {
+    "description": "Sort all socks by emotional value.",
+    "done": false
+  },
+  {
+    "description": "Rename Wi-Fi to 'FBI Surveillance Van'",
+    "done": false
+  },
+  {
+    "description": "Add ducks to calendar. No context.",
+    "done": false
   }
 ]
